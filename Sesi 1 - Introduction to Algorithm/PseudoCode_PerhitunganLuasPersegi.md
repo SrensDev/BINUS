@@ -1,7 +1,3 @@
-Nama: ARY BUDIANTO
-<br>
-NIM: 2902616715
-
 # PseudoCode Perhitungan 5 x 3
 
 ```
