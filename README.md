@@ -1,2 +1,2 @@
-# LOREM IPSUM
-lorem ipsum
+# Nama: ARY BUDIANTO
+# NIM: 2902616715
